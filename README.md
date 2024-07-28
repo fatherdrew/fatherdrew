@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @fatherdrew
+- 👀 I make things
+- 🌱 I'm currently making various blockchain smart contracts and other things.
+- 📫 fatherdrew@protonmail.com
