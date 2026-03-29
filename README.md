@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @fatherdrew
-- 👀 I break into things
+- 👀 I break into things.
 - 📫 fatherdrew@protonmail.com
